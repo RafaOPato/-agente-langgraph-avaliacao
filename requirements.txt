@@ -1,0 +1,4 @@
+# Limites mínimos de propósito: o que eu medi está em requirements.lock.
+langgraph>=1.2
+langfuse>=5.0
+deepeval>=4.3
